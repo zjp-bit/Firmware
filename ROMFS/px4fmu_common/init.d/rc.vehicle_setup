@@ -174,4 +174,5 @@ if [ $VEHICLE_TYPE = none ]
 then
 	echo "No autostart ID found"
 	ekf2 start
+	ekf2_selector start
 fi

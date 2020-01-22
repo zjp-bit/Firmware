@@ -9,6 +9,7 @@
 # Start the attitude and position estimator.
 #
 ekf2 start
+ekf2_selector start
 
 #
 # Start attitude controller.

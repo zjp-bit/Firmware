@@ -1,6 +1,6 @@
 !/bin/sh
 #
-# @name Rover
+# @name Aion Robotics R1 Rover
 #
 
 sh /etc/init.d/rc.rover_defaults
